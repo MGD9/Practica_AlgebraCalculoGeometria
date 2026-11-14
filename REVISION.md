@@ -10,3 +10,7 @@ Lectura del código, sin ejecución completa. Posición de celda contando desde 
 | Bloques de datos | Ruta absoluta a `train.csv` y recursos de clase ausentes. | La ejecución no es portable desde un clon limpio. |
 
 Para validar las operaciones habría que incluir al menos: conjuntos vacíos, elemento ausente, dos multiconjuntos iguales, un segundo elemento incompatible y multiplicidades distintas. Las otras secciones requieren sus datos antes de afirmar una ejecución de principio a fin.
+
+## Revisión posterior disponible
+
+Los hallazgos anteriores describen la entrega inicial. El [anexo de noviembre de 2026](ANEXO_REVISION_2026.md) contiene la versión alternativa y distingue las pruebas superadas de la validación pendiente con datos reales. El código original permanece intacto.

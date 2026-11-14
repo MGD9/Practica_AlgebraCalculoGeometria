@@ -1,5 +1,8 @@
 # Álgebra, cálculo y geometría con Python
 
+> **Original y revisión posterior:** la entrega inicial se conserva. La versión alternativa de noviembre de 2026 está en el [anexo con código, cambios y pruebas](ANEXO_REVISION_2026.md).
+
+
 Esta práctica de KeepCoding me sirvió para bajar las matemáticas al código: representar conjuntos con repeticiones, descomponer matrices y entender cómo se ajusta una regresión.
 
 **Estado:** cuaderno de formación conservado. Incluye código propio, enunciados y ejemplos de clase. Tiene recursos externos y errores pendientes; no se presenta como una librería matemática validada.
